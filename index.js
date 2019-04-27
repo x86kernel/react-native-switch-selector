@@ -254,6 +254,7 @@ SwitchSelector.defaultProps = {
   textStyle: {},
   selectedTextStyle: {},
   imageStyle: {},
+  buttonStyle: {},
   textColor: "#000000",
   selectedColor: "#FFFFFF",
   fontSize: 14,
