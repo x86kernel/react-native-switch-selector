@@ -236,7 +236,7 @@ export default class SwitchSelector extends Component {
                       marginTop: hasPadding ? valuePadding : 0
                     },
                     styles.animated,
-                    styles.buttonStyle,
+                    buttonStyle,
                   ]}
                 />
               )}
