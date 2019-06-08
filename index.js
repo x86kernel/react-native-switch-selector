@@ -14,7 +14,8 @@ const styles = {
   button: {
     flexDirection: "row",
     justifyContent: "center",
-    alignItems: "center"
+    alignItems: "center",
+    elevation: 2,
   },
   containerButton: {
     flexDirection: "row",
